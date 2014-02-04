@@ -33,3 +33,5 @@ Also - we can view this data with the [Raw Density App](http://app.raw.densityde
 
 ## Online Purchase Data
 The *online_purchases.csv* file contains (fake) sales data from a website.  It has the following columns: category, subcategory, date purchased, date first viewed, price, and whether or not an email was received by the purchaser for the product.
+
+You can [download the raw CSV file](https://raw2.github.com/bmuller/GADataViz/master/data/online_purchases.csv) and then import into Google Fushion tables.
