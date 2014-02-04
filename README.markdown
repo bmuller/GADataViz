@@ -29,11 +29,14 @@ Infographic Generation:
 * [PikToChart](http://piktochart.com)
 * [Easelly](http://www.easel.ly)
 
+Data Sources
+* [DC Government](http://data.dc.gov)
+* [Factual](http://www.factual.com)
+* [Freebase](http://www.freebase.com)
 
 ## References
 * [Original visual information seeking mantra paper](http://www.cs.ubc.ca/~tmm/courses/old533/readings/shneiderman96eyes.pdf)
 * [Review of mantra paper](http://www.cc.gatech.edu/~john.stasko/8001/craft05.pdf)
-
 
 ## Fun
 * [WTFViz](http://wtfviz.net/)
